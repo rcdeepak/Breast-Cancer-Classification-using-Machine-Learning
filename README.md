@@ -1,3 +1,4 @@
+![Breast_Cancer](https://github.com/rcdeepak/Breast-Cancer-Classification-using-Machine-Learning/assets/118427592/8f3449f6-4983-4795-9b0c-0404b5609690)
 
 # Breast Cancer Classification using Machine Learning
 Breast cancer is a common form of cancer that primarily affects women but can also occur in men. Early detection and accurate diagnosis are crucial for effective treatment. This project aims to utilize machine learning algorithms to detect breast cancer with reasonable accuracy. By leveraging a dataset obtained from Kaggle, we explore various ML models to classify breast tumors as either malignant (cancerous) or benign (non-cancerous) based on the provided attributes.
